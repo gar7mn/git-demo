@@ -1,6 +1,6 @@
 # git-demo
 
-Actually Learning git
+Actually Learning git!!!
 
 gonna learn some cool stuff.
 
